@@ -1,0 +1,241 @@
+.top-navi {
+    display: flex;
+    border: 1px solid;
+    border-bottom: 0px;
+    padding-top: 3px;
+    width: 100%;
+    background-image: url("https://i.pinimg.com/originals/03/c0/5b/03c05b2ea6adddc04cb3b370dbb3373b.gif");
+    width: 100%;
+    background-color: #55d1d0;
+    color: white;
+    border: 2px solid #44adad;
+    border-bottom: 0px;
+}
+
+.fake-srch {
+    border: 1px inset;
+    padding-left: 200px;
+    height: 20px;
+    margin-left: 150px;
+}
+
+.c {
+    margin-left: 80px;
+    color: white;
+}
+
+.t {
+    color: white;
+}
+
+
+.low-navi {
+    border: 2px solid #eb8aa9;
+    display: flex;
+    width: 100%;
+    background: pink;
+    color: white;
+}
+
+p {
+    margin: 5px;
+}
+
+.pfp {
+    width: 200px;
+    height: 200px;
+}
+
+.prf {
+    display: flex;
+}
+
+.all {
+    padding: 20px;
+    width: 2000px;
+}
+
+.q {
+    width: 398px;
+    background: #47c8c0;
+    color: white;
+    padding: 1px;
+}
+
+.contact {
+    border: 1px solid;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.x {
+    font-size: 13px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.URL {
+    border: 1px solid;
+    margin-top: 20px;
+    width: 400px;
+}
+
+.song {
+    border: 1px solid;
+    width: 400px;
+    margin-top: 20px;
+
+}
+
+.page {
+    display: flex;
+    color: #5a676b;
+    background: url("https://i.pinimg.com/originals/61/bd/3d/61bd3d3eab45f4b19c1ebfdc4c5b43f2.gif");
+}
+
+.network {
+    border: 2px solid;
+    font-size: 20px;
+    width: 400px;
+    padding: 15px;
+    height: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.blog-entry {
+    background: pink;
+    padding: 4px;
+    color: #ff1688;
+}
+
+.blurbs {
+    background: pink;
+    padding: 4px;
+    margin-top: 20px;
+    color: #ff1688;
+}
+
+.abt {
+    margin-top: 20px;
+}
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 50%;
+}
+
+.all {
+    width: 1000px;
+    font-family: Roboto Condensed;
+}
+
+h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 23px;
+
+}
+
+.friend-pics {
+    width: 90px;
+    height: 90px;
+    padding-left: 20px;
+}
+
+.k {
+    margin-top: 50px;
+}
+
+.tagline {
+    margin-top: 20px;
+}
+
+.comments {
+    margin-top: 20px;
+    background: #47c8c0;
+    padding: 3px;
+    color: white;
+}
+
+.comment-pics {
+    width: 90px;
+    height: 90px;
+}
+
+.all-comments {
+    display: flex;
+}
+
+.w {
+    margin-top: 40px;
+    margin-left: 15px;
+}
+
+.star {
+    width: 30px;
+    height: 30px;
+}
+
+audio {
+    width: 400px;
+    height: 30px;
+}
+
+.Teto {
+    border-radius: 50%;
+}
+
+.prf {
+    background:white;
+    width: 400px;
+    padding: 15px;
+}
+
+.luka {
+    border-radius: 50%;
+}
+
+.view-friends {
+    float: right;
+}
+
+.about-me {
+    color: #ff1688;
+}
+
+.friend-space {
+    background: pink;
+    color: #ff1688;
+    padding: 4px;
+}
+
+.oneoeight {
+    color: #ff1688;
+}
+
+.meet {
+    color: #ff1688;
+}
+
+.rinn {
+    border-radius: 50%;
+}
+
+.voca {
+    display: flex;
+}
+
+.after {
+    width: 400px;
+    text-align: center;
+}
+
+.abt {
+    text-align: center;
+}
